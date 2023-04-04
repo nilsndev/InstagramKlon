@@ -18,7 +18,7 @@ namespace RealInstagram.Class{
         string _server = "localhost";
         string _userid = "root";
         #region password
-        string _password = "Lolkopf13";
+        string _password = "Wo ist das Passwort?";
         #endregion
         string _database = "instagram";
         #endregion
